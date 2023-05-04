@@ -10,7 +10,7 @@ terraform {
     organization = "ART-Snow"
 
     workspaces {
-      name = "snowday"
+      name = "gh-actions-demo"
     }
   }
 }
